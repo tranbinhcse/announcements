@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^7.2",
-        "tinoapp/plugins": "^3.0",
+        "tinoapp/plugins": "dev-master",
         "spatie/laravel-query-builder": "^3.0"
     },
     "require-dev": {
